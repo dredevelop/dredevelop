@@ -1,4 +1,5 @@
 ## Hello!
+![hi](https://tenor.com/gicchO7nVGM.gif)
 
 ## I'm *Dre*.
 A coder who dreams of working at big companies, participating in large projects, and also building my own.
