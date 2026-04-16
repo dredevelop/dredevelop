@@ -14,7 +14,7 @@ A coder who dreams of working at big companies, participating in large projects,
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/OpenSUSE_Logo.svg" width="40"/>
 </p>
 
-# 💭 Pretending to:
+# 💭 Intending to do:
 — Help doing OSems
 
 — Make a kernel/microkernel
